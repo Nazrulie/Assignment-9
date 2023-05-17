@@ -1,0 +1,14 @@
+.img-container {
+    background-image: url(../img/60504-01-gaming-event-powerpoint-template-16x9-1.jpg);
+    height: 300px;
+    color: rgb(238, 210, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.all-data {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 50px;
+}

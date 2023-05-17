@@ -1,0 +1,24 @@
+.all-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    box-shadow: rgb(238, 210, 238) 0px 19px 38px, rgb(238, 210, 238) 0px 15px 12px;
+}
+
+.all-container h3 {
+    color: rgb(185, 63, 185);
+
+}
+
+.link-container a {
+    text-decoration: none;
+    color: none;
+    font-weight: 500;
+    margin-left: 30px;
+}
+
+.link-container a {
+    color: rgb(185, 63, 185);
+}
